@@ -1,0 +1,28 @@
+.NavLink {
+  font-size: 30px;
+  color: black;
+  margin-right: 50px;
+  text-decoration: none;
+}
+
+.NavLinkActive {
+  color: palevioletred;
+  margin-right: 50px;
+}
+
+.listNav {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  font-size: 23px;
+}
+
+.NavLink:hover,
+.NavLink:focus {
+  text-decoration-line: underline;
+}
+
+.ItemNav {
+  margin-right: 40px;
+}

@@ -1,0 +1,10 @@
+.cast {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin-left: 50px;
+}
+
+li {
+  list-style-type: none;
+}
